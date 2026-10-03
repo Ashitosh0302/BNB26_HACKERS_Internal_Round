@@ -248,20 +248,4 @@ Without API keys, the app runs fully with deterministic **SpiderSense Mock** pro
 
 ---
 
-## 🏆 Hackathon Highlights
-
-- ✅ **Full content lifecycle** in one SPA (17 screens)
-- ✅ **Zero TypeScript errors** — clean build
-- ✅ **Fully self-contained demo** — no API keys required
-- ✅ **Cinematic intro animation** with SFX
-- ✅ **Animated spider-web canvas** background (mouse-interactive)
-- ✅ **AI Command Bar** (Ctrl+K) with natural language
-- ✅ **Real-time notifications** drawer
-- ✅ **Open edit plan schema** — AI creates, human controls final cut
-- ✅ **Modular AI providers** — swap any model with no code changes
-- ✅ **Creator DNA** persistent style memory
-- ✅ **Multimodal Content Graph** SVG visualization
-
----
-
 *Built with 🕷 Spider-Sense · CreatorAI © 2026*
